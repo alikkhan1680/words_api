@@ -1,0 +1,22 @@
+[
+  {"model": "app.Iregulars","pk": 201,"fields": {"base": "abide","past": "abode/abided","pp": "abode/abided","translation": "chidamoq, toqat qilmoq","example": "She abode by the rules."}},
+{"model": "app.Iregulars","pk": 202,"fields": {"base": "arise","past": "arose","pp": "arisen","translation": "paydo bo‘lmoq","example": "A problem has arisen."}},
+{"model": "app.Iregulars","pk": 203,"fields": {"base": "befall","past": "befell","pp": "befallen","translation": "yuz bermoq, boshiga kelmoq","example": "A great misfortune befell them."}},
+{"model": "app.Iregulars","pk": 204,"fields": {"base": "behold","past": "beheld","pp": "beheld","translation": "ko‘rmoq","example": "They beheld a beautiful sight."}},
+{"model": "app.Iregulars","pk": 205,"fields": {"base": "beseech","past": "besought","pp": "besought","translation": "iltimos qilmoq","example": "He besought her to stay."}},
+{"model": "app.Iregulars","pk": 206,"fields": {"base": "betide","past": "betid","pp": "betid","translation": "sodir bo‘lmoq","example": "Woe betide anyone who breaks the rules."}},
+{"model": "app.Iregulars","pk": 207,"fields": {"base": "cleave","past": "clove/cleft","pp": "cloven/cleft","translation": "yorib tashlamoq, yopishmoq","example": "The axe cleft the wood in two."}},
+{"model": "app.Iregulars","pk": 208,"fields": {"base": "forsake","past": "forsook","pp": "forsaken","translation": "tark etmoq","example": "He forsook his homeland."}},
+{"model": "app.Iregulars","pk": 209,"fields": {"base": "hew","past": "hewed","pp": "hewn/hewed","translation": "kesmoq, chopmoq","example": "They hewed logs for the fire."}},
+{"model": "app.Iregulars","pk": 210,"fields": {"base": "rend","past": "rent","pp": "rent","translation": "yulib tashlamoq","example": "The explosion rent the air."}},
+{"model": "app.Iregulars","pk": 211,"fields": {"base": "slay","past": "slew","pp": "slain","translation": "o‘ldirmoq","example": "The dragon was slain by the knight."}},
+{"model": "app.Iregulars","pk": 212,"fields": {"base": "smite","past": "smote","pp": "smitten","translation": "urmoq, urib tushirmoq","example": "He was smitten by fear."}},
+{"model": "app.Iregulars","pk": 213,"fields": {"base": "strew","past": "strewed","pp": "strewn/strewed","translation": "sochmoq, yoymoq","example": "Clothes were strewn across the room."}},
+{"model": "app.Iregulars","pk": 214,"fields": {"base": "stride","past": "strode","pp": "stridden","translation": "katta qadam tashlamoq","example": "He strode across the stage."}},
+{"model": "app.Iregulars","pk": 215,"fields": {"base": "string","past": "strung","pp": "strung","translation": "ipga tizmoq","example": "He strung the beads together."}},
+{"model": "app.Iregulars","pk": 216,"fields": {"base": "thrive","past": "throve/thrived","pp": "thriven/thrived","translation": "yashnamoq, rivojlanmoq","example": "The business thrived last year."}},
+{"model": "app.Iregulars","pk": 217,"fields": {"base": "tread","past": "trod","pp": "trodden","translation": "bosib yurmoq","example": "He trod the muddy path."}},
+{"model": "app.Iregulars","pk": 218,"fields": {"base": "wed","past": "wed/wedded","pp": "wed/wedded","translation": "uylanmoq, turmushga chiqmoq","example": "He wed his childhood sweetheart."}},
+{"model": "app.Iregulars","pk": 219,"fields": {"base": "wend","past": "went","pp": "wend/wended","translation": "yo‘l olmoq","example": "They wended their way home."}},
+{"model": "app.Iregulars","pk": 220,"fields": {"base": "wring","past": "wrung","pp": "wrung","translation": "siqmoq, burmoq","example": "She wrung out the wet cloth."}}
+]
