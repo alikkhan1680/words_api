@@ -1,1 +1,1 @@
-web: gunicorn words_api.wsgi:application --bind 0.0.0.0:$PORT
+web: gunicorn grammar_api.wsgi:application --bind 0.0.0.0:$PORT
