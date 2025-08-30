@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 import os
 
+STATIC_URL = '/static/'
 
 from pathlib import Path
 
