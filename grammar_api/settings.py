@@ -98,7 +98,7 @@ DATABASES = {
         'NAME': 'railway',   # Railway "database name"
         'USER': 'postgres',  # Railway "username"
         'PASSWORD': 'UyrGfHalBTkjnLauYjKlBZofDURaZyxn',  # Railway "password"
-        'HOST': 'UyrGfHalBTkjnLauYjKlBZofDURaZyxn',
+        'HOST': 'postgres.railway.internal',
         'PORT': '5432',
     }
 }
