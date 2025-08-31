@@ -98,8 +98,8 @@ DATABASES = {
         'NAME': 'railway',   # Railway "database name"
         'USER': 'postgres',  # Railway "username"
         'PASSWORD': 'UyrGfHalBTkjnLauYjKlBZofDURaZyxn',  # Railway "password"
-        'HOST': 'ballast.proxy.rlwy.net',
-        'PORT': '33696',
+        'HOST': 'UyrGfHalBTkjnLauYjKlBZofDURaZyxn',
+        'PORT': '5432',
     }
 }
 
