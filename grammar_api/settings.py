@@ -92,10 +92,19 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-import dj_database_url
 DATABASES = {
-    'default': dj_database_url.config(default=os.environ.get('DATABASE_URL'))
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',   # Railway "database name"
+        'USER': 'postgres',  # Railway "username"
+        'PASSWORD': 'UyrGfHalBTkjnLauYjKlBZofDURaZyxn',  # Railway "password"
+        'HOST': 'ballast.proxy.rlwy.net',
+        'PORT': '33696',
+    }
 }
+
+
+
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
