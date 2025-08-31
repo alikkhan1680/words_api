@@ -11,6 +11,8 @@ class Iregulars(models.Model):# iregular verblarnni so'zlarni alohida yozish uch
 
     def __str__(self):
         return self.base
+    class Meta:  # Bosh harf bilan
+        db_table = 'iregulars'
 
 
 
@@ -23,6 +25,8 @@ class Grammar(models.Model):
 
     def __str__(self):
         return self.title
+    class Meta:  # Bosh harf bilan
+        db_table = 'grammar'
 
 
 class GrammarDescriptions(models.Model):
@@ -32,6 +36,9 @@ class GrammarDescriptions(models.Model):
 
     def __str__(self):
         return self.name_number
+    class Meta:  # Bosh harf bilan
+        db_table = 'grammarDescriptions'
+
 
 
 
@@ -43,6 +50,8 @@ class GrammarExemple(models.Model):
 
     def __str__(self):
         return self.name_number
+    class Meta:  # Bosh harf bilan
+        db_table = 'grammarExemple'
 
 
 
@@ -54,3 +63,5 @@ class GrammarImg(models.Model):
     def __str__(self):
         return self.name_number
 
+    class Meta:  # Bosh harf bilan
+        db_table = 'GrammarImg'
